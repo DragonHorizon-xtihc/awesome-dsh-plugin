@@ -1,5 +1,5 @@
 url: https://github.com/DragonHorizon-xtihc/dsh-connect-opencode-free
-name: DragonHorizon-xtihc/dsh-connect-opencode-free#dsh-connect-opencode-free
+name: DragonHorizon-xtihc/dsh-connect-opencode-free
 category: model
 description:
   en: Connect OpenCode Zen free-tier models into DeepSeek Harness. Real-time model discovery, per-model toggle in settings, one-click provider write. No API key required.
